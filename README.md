@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'am leo xu. 👋
 
 <!--
 **LEOXC1571/LEOXC1571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
