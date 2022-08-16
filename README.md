@@ -1,4 +1,4 @@
-### Hi there, I'am leo xu (Can Xu). Welcome to visit my blog <https://leoxc1571.github.io> 👋
+### Hi there, I'm leo xu (Can Xu). Welcome to visit my blog <https://leoxc1571.github.io> 👋
 
 - 🔭 I’m a postgraduate at Zhejiang Gongshang University.
 - 🌱 I’m currently interning in Zhejiang Lab.
