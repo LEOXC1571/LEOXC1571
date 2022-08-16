@@ -1,4 +1,9 @@
-### Hi there, I'am leo xu. 👋
+### Hi there, I'am leo xu (Can Xu). Welcome to visit my blog <https://leoxc1571.github.io> 👋
+
+- 🔭 I’m a postgraduate at Zhejiang Gongshang University.
+- 🌱 I’m currently interning in Zhejiang Lab.
+- 🤔 My research interests include ✨ GNNs, Recommender Systems, Molecule property learning and Molecular Graph Generation ✨.
+- 📫 How to reach me: leoxc1571@163.com
 
 <!--
 **LEOXC1571/LEOXC1571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
