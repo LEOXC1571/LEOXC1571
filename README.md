@@ -1,7 +1,7 @@
 ### Hi there, I'm leo xu (Can Xu). Welcome to visit my blog <https://leoxc1571.github.io> 👋
 
 - 🔭 I’m a postgraduate at Zhejiang Gongshang University.
-- 🌱 I’m currently interning in Zhejiang Lab.
+% - 🌱 I will study for a PhD at East China Normal University.
 - 🤔 My research interests include ✨GNNs, Molecular learning, Molecule generation, Diffusion methods, Recommender Systems.✨
 - 📫 How to reach me: leoxc1571@163.com
 
