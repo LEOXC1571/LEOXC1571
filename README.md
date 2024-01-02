@@ -2,7 +2,7 @@
 
 - 🔭 I’m a postgraduate at Zhejiang Gongshang University.
 - 🌱 I interned at Zhejiang Lab between July 2022 and Augest 2023.
-- 🤔 My research interests include ✨GNNs, Molecular learning, Molecule generation, Diffusion methods, Recommender Systems.✨
+- 🤔 My research interests include ✨Graph learning, Generative methods, Molecular learning, Molecule generation, Diffusion models, Recommender Systems.✨
 - 📫 How to reach me: leoxc1571@163.com
 
 <!--
