@@ -1,4 +1,4 @@
-### Hi there, I'm leo xu (Can Xu). Welcome to visit my blog <https://leoxc1571.github.io> 👋
+### Hi there, I'm Can Xu (Leo). Welcome to visit my blog <https://leoxc1571.github.io> 👋
 
 - 🔭 I’m an Phd candidate at East China Normal University, DaSE.
 - 🌱 I interned at Zhejiang Lab between July 2022 and Augest 2023.
