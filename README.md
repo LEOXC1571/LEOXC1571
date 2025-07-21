@@ -1,6 +1,7 @@
 ### Hi there, I'm Can Xu (Leo). Welcome to visit my blog <https://leoxc1571.github.io> 👋
 
 - 🔭 I’m an Phd candidate at East China Normal University, DaSE.
+- 🗃️ I'm currently interning at Baidu Inc., Beijing, China.
 - 🌱 I interned at Zhejiang Lab between July 2022 and Augest 2023.
 - 🤔 My research interests include ✨Graph learning, Generative methods, Molecular learning, Molecule generation, Diffusion models, Recommender Systems.✨
 - 📫 How to reach me: leoxc1571@163.com
